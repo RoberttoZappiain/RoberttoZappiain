@@ -1,5 +1,5 @@
 ElRobertt👨🏻‍💻
-Estudiante de Tecnologias 💻
+INGENIERO EN SOFTWARE MULTIPLATAFORMAs 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberttozappiain&layout=compact)](https://github.com/roberttozappiain/github-readme-stats)
 
